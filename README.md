@@ -67,7 +67,3 @@ To explore the Power BI report, click the link below:
 ## Feedback and Contributions
 
 I welcome feedback and contributions to enhance this project. Please feel free to open issues or submit pull requests.
-
----
-
-This README provides a clear, professional, and engaging overview of your project, highlighting the key features, visualizations, and instructions for accessing and exploring the Power BI analysis.
