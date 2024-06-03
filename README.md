@@ -66,4 +66,4 @@ To explore the Power BI report, click the link below:
 
 ## Feedback and Contributions
 
-I welcome feedback and contributions to enhance this project. Please feel free to open issues or submit pull requests.
+I welcome feedback and contributions to enhance this project. Please feel free to open issues or submit pull requests..
